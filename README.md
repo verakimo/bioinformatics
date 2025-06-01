@@ -10,3 +10,6 @@
 * Käyttäjä pystyy antamaan tehtäville ratkaisun ja vaikeustason. Tehtävistä näytetään ratkaisut ja keskimääräinen vaikeustaso.
 
 Tässä pääasiallinen tietokohde on bioinformatiikkatehtävä ja toissijainen tietokohde on ratkaisu tehtävään.
+
+Välipalautus 2
+Sovelluksen nykyinen tilanne: en ole edennyt
